@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntelosophyAPI", "IntelosophyAPI\IntelosophyAPI.csproj", "{BFF98914-E9CD-47AC-A3C2-0296AA037FF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFF98914-E9CD-47AC-A3C2-0296AA037FF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF98914-E9CD-47AC-A3C2-0296AA037FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF98914-E9CD-47AC-A3C2-0296AA037FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF98914-E9CD-47AC-A3C2-0296AA037FF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F892BF90-5CC4-4C16-A851-7DFCC6F80DBB}
+	EndGlobalSection
+EndGlobal
